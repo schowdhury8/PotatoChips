@@ -10,4 +10,4 @@ Background: As the length of an array changes, the time to execute an algorithm 
 Methodology: We will find the worst-case value(across the diagonal) for each matrix starting from a size 1000x1000 to 10,000x10,000 in increments of 100. This will be done 100 times for each matrix to represent 100 trials. The runtimes for each matrix will be averaged and then plotted on a graph with the correlating length of the matrix.
 
 
-![Graph](https://github.com/schowdhury8/PotatoChips/blob/master/graphs/chart.png)
+![Graph](graphs/chart.png)
