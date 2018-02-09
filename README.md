@@ -15,4 +15,4 @@ We will find the worst-case value(across the diagonal) for each matrix starting 
 ![Graph](graphs/chart.png)
 
 # Conclusions
-The data does support the hypothesis that our alogorithm runs in O(n) time because the data plotted on the graph looks almost completely linear. There are many fluctuations in the graph possibly due to problems with memory allocations. 
+The data does support the hypothesis that our algorithm runs in O(n) time because the data plotted on the graph looks almost completely linear. There are many fluctuations in the graph possibly due to problems with memory allocations. 
